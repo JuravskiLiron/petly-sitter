@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "E:\\petly-sitter\\backend\\PetlySitter.Persistence\\PetlySitter.Persistence.csproj": {}
+    "C:\\Users\\User\\WebstormProjects\\petly-sitter\\backend\\PetlySitter.Persistence\\PetlySitter.Persistence.csproj": {}
   },
   "projects": {
-    "E:\\petly-sitter\\backend\\PetlySitter.Persistence\\PetlySitter.Persistence.csproj": {
+    "C:\\Users\\User\\WebstormProjects\\petly-sitter\\backend\\PetlySitter.Persistence\\PetlySitter.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\petly-sitter\\backend\\PetlySitter.Persistence\\PetlySitter.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\User\\WebstormProjects\\petly-sitter\\backend\\PetlySitter.Persistence\\PetlySitter.Persistence.csproj",
         "projectName": "PetlySitter.Persistence",
-        "projectPath": "E:\\petly-sitter\\backend\\PetlySitter.Persistence\\PetlySitter.Persistence.csproj",
+        "projectPath": "C:\\Users\\User\\WebstormProjects\\petly-sitter\\backend\\PetlySitter.Persistence\\PetlySitter.Persistence.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\petly-sitter\\backend\\PetlySitter.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\User\\WebstormProjects\\petly-sitter\\backend\\PetlySitter.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,7 +23,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
